@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "hllo",
+      "id": 1
+    },
+    {
+      "title": "we",
+      "description": "we",
+      "id": 2
+    },
+    {
+      "title": "xyz",
+      "description": "123",
+      "id": 3
+    },
+    {
+      "title": "dfdf",
+      "description": "dfdf",
+      "userId": "108977299834544123790",
+      "id": 4
+    },
+    {
+      "title": "dfdf",
+      "description": "dfdf",
+      "streamKey": "woTE9",
+      "userId": "108977299834544123790",
+      "id": 5
+    }
+  ]
+}
